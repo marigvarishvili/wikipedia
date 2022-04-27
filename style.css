@@ -1,0 +1,35 @@
+element.style
+.central-textlogo-wrapper {
+    display: inline-block;
+    vertical-align: bottom;
+}
+.central-textlogo {
+    position: relative;
+    margin: 4rem auto 0.5rem;
+    width: 270px;
+    font-family: Linux Libertine,Hoefler Text,Georgia,Times New Roman,Times,serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: center;
+}
+.svg-Wikipedia_wordmark {
+    background-position: 0 -254px;
+    width: 176px;
+    height: 32px;
+}
+.sprite {
+    background-image: linear-gradient(transparent,transparent),url(portal/wikipedia.org/assets/img/sprite-e99844f6.svg);
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+}
+h1 {
+    font-weight: normal;
+}
+.localized-slogan {
+    display: block;
+    font-family: Linux Libertine,Georgia,Times,serif;
+    font-size: 15px;
+    font-weight: 400;
+}
